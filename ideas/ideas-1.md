@@ -16,6 +16,4 @@ period to separate sentences?
 
 let first (fn (a) (nth 1 a)). first @(3 4 5).
 
-
-
 files are "data" by default, can use file extension to indicate "code" default?
